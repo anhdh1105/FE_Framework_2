@@ -1,0 +1,367 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 555",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibr_FJjXgUeS1Etzs6t8YI5fHFlG-HAR7Hg&s",
+      "price": "30002",
+      "categoryId": "9872",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "id": "5"
+    },
+    {
+      "name": "Do Hoang Anh",
+      "image": "https://picsum.photos/id/237/200/300",
+      "price": "22000",
+      "categoryId": "9872",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "id": "3003"
+    },
+    {
+      "name": "Sản phẩm 1",
+      "image": "https://picsum.photos/400/300",
+      "price": "30000",
+      "categoryId": "dxj",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "id": "fd01"
+    },
+    {
+      "name": "Sản phẩm 2",
+      "image": "https://ss-images.saostar.vn/pc/1594552169806/eujb4tnwsaukzif.jpg",
+      "price": "42000000",
+      "categoryId": "312f",
+      "description": "Et tempora odit totam consequatur. Consectetur sit nemo veniam distinctio et quam.",
+      "id": "d092"
+    },
+    {
+      "name": "Do Hoang Anh",
+      "image": "https://ss-images.saostar.vn/pc/1594552169806/eujb4tnwsaukzif.jpg",
+      "price": "2421",
+      "categoryId": "9872",
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "id": "7314"
+    },
+    {
+      "name": "aaaaaaaaaa",
+      "image": "https://picsum.photos/id/10/300/300",
+      "price": "2421",
+      "categoryId": "9872",
+      "description": "9 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "id": "623d"
+    },
+    {
+      "name": "bbbbbbbbbbbbbbbbbbb",
+      "image": "https://picsum.photos/id/237/200/300",
+      "price": "22000",
+      "categoryId": "fa0b",
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "id": "a7fb"
+    },
+    {
+      "name": "ccccccccccc",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "price": "2421",
+      "categoryId": "312f",
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "id": "d737"
+    },
+    {
+      "name": "nnnnnnnnnnnnn",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/pjimage-(19)-2.jpg",
+      "price": "2421",
+      "categoryId": "fa0b",
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "id": "0838"
+    },
+    {
+      "name": "San Pham 99",
+      "image": "https://picsum.photos/id/10/300/300",
+      "price": "30000",
+      "categoryId": "fa0b",
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "id": "Sf5Z0AN"
+    },
+    {
+      "name": "Sản phẩm 69",
+      "image": "https://lh3.googleusercontent.com/hwau7OVWx96XaME5KpRuJ0I_MscrerK6SbRH1UwYHYaxIDQQtn7RZK02LDSfBzCreidFgDsJeXyqDct6EZiH6vsV=s1280-w1280-h800",
+      "price": "30000",
+      "categoryId": "312f",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday\"",
+      "id": "DYspu3a"
+    }
+  ],
+  "category": [
+    {
+      "name": "Danh muc 11",
+      "image": "https://picsum.photos/id/237/200/300",
+      "id": "dxj"
+    },
+    {
+      "name": "Danh mục 2",
+      "image": "https://picsum.photos/200/300",
+      "id": "9872"
+    },
+    {
+      "name": "Danh mục 3",
+      "image": "https://cuahangminhlong.com/wp-content/uploads/2019/03/B%C3%ACnh-hoa-27-cm-Ki%C3%AAu-Sa-scaled.jpg",
+      "id": "fa0b"
+    },
+    {
+      "id": "312f",
+      "name": "Danh mục 4",
+      "image": "https://locat.com.vn/hinh-hoa-tuoi/cay-van-phong/13431_chau-cay-van-phong-mix-4.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$2Bq6wM4n0T1MnnXgCfzxc.AHzT7UTL7fiqsFPu9D4jEZfw4aWAmOe",
+      "name": "Do Hoang Anh",
+      "id": 1
+    },
+    {
+      "email": "hoanganh@gmail.com",
+      "password": "$2a$10$GGGGM2nKhnRdpdcYfEBJVusTBKvSsUiYwiQaQ4iG3AHLREEyZkns.",
+      "name": "Do Hoang Anh",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$TDTfkJeYo1xTplQT1Z5Qeen3pDxviVR8Z3seprhn6z7LM0ztaP2gy",
+      "name": "Do Hoang Anh",
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "id": 4
+    }
+  ],
+  "cartItems": [
+    {
+      "cartId": 3,
+      "productId": "5",
+      "quantity": 1,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "phone": "0983983983",
+      "address": "Hn",
+      "note": "HN",
+      "id": 1
+    },
+    {
+      "name": "Final Test",
+      "email": "final@gmail.com",
+      "phone": "0983983983",
+      "address": "HN",
+      "note": "Hehe",
+      "id": 2
+    },
+    {
+      "name": "Final Test",
+      "email": "final@gmail.com",
+      "phone": "0983983983",
+      "address": "A",
+      "note": "A",
+      "totalPrice": 25000,
+      "id": 3
+    },
+    {
+      "name": "Anh",
+      "email": "tranloc1234@gmail.com",
+      "phone": "0333745950",
+      "address": "345",
+      "note": "",
+      "totalPrice": 913888,
+      "id": 4
+    },
+    {
+      "name": "Anh",
+      "email": "admin@gmail.com",
+      "phone": "0333745950",
+      "address": "345",
+      "note": "",
+      "totalPrice": 11111,
+      "id": 5
+    },
+    {
+      "name": "Anh",
+      "email": "admin@gmail.com",
+      "phone": "0333745950",
+      "address": "345",
+      "note": "",
+      "totalPrice": 33111,
+      "id": 6
+    },
+    {
+      "name": "Anh",
+      "email": "test@gmail.com",
+      "phone": "0333745950",
+      "address": "345",
+      "note": "ffc",
+      "totalPrice": 90004,
+      "id": 7
+    }
+  ],
+  "orderDetails": [
+    {
+      "orderId": 1,
+      "quantity": 1,
+      "product": {
+        "id": "1",
+        "name": "Product A updated",
+        "image": "https://picsum.photos/500/500",
+        "price": 25000,
+        "categoryId": "goKx6bI"
+      },
+      "id": 1
+    },
+    {
+      "orderId": 1,
+      "quantity": 3,
+      "product": {
+        "name": "Product A updated",
+        "price": "98999",
+        "image": "https://loremflickr.com/640/480/abstract",
+        "categoryId": "1",
+        "id": "RGEZnIi"
+      },
+      "id": 2
+    },
+    {
+      "orderId": 2,
+      "quantity": 1,
+      "product": {
+        "name": "Product A updated",
+        "price": "98999",
+        "image": "https://loremflickr.com/640/480/abstract",
+        "categoryId": "1",
+        "id": "RGEZnIi"
+      },
+      "id": 3
+    },
+    {
+      "orderId": 2,
+      "quantity": 4,
+      "product": {
+        "id": "1",
+        "name": "Product A updated",
+        "image": "https://picsum.photos/500/500",
+        "price": 25000,
+        "categoryId": "goKx6bI"
+      },
+      "id": 4
+    },
+    {
+      "orderId": 3,
+      "quantity": 1,
+      "product": {
+        "id": "1",
+        "name": "Product A updated",
+        "image": "https://picsum.photos/500/500",
+        "price": 25000,
+        "categoryId": "goKx6bI"
+      },
+      "id": 5
+    },
+    {
+      "orderId": 4,
+      "quantity": 1,
+      "product": {
+        "id": "1",
+        "name": "Product A updated",
+        "image": "https://picsum.photos/500/500",
+        "price": 25000,
+        "categoryId": "goKx6bI"
+      },
+      "id": 6
+    },
+    {
+      "orderId": 4,
+      "quantity": 1,
+      "product": {
+        "name": "Product C",
+        "price": 888888,
+        "image": "https://picsum.photos/500/500",
+        "categoryId": "goKx6bI",
+        "id": "56NES07"
+      },
+      "id": 7
+    },
+    {
+      "orderId": 5,
+      "quantity": 1,
+      "product": {
+        "name": "Giày nữ ABC context udate",
+        "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_25081/dong-ho-treo-tu_main_946_1020.png.webp",
+        "price": "11111",
+        "categoryId": "fa0b",
+        "id": "10"
+      },
+      "id": 8
+    },
+    {
+      "orderId": 6,
+      "quantity": 1,
+      "product": {
+        "name": "Giày nữ ABC context udate",
+        "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_25081/dong-ho-treo-tu_main_946_1020.png.webp",
+        "price": "11111",
+        "categoryId": "fa0b",
+        "id": "10"
+      },
+      "id": 9
+    },
+    {
+      "orderId": 6,
+      "quantity": 1,
+      "product": {
+        "name": "Do Hoang Anh",
+        "image": "https://picsum.photos/id/237/200/300",
+        "price": "22000",
+        "categoryId": "9872",
+        "id": "3003"
+      },
+      "id": 10
+    },
+    {
+      "orderId": 7,
+      "quantity": 2,
+      "product": {
+        "name": "Sản phẩm 555",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibr_FJjXgUeS1Etzs6t8YI5fHFlG-HAR7Hg&s",
+        "price": "30002",
+        "categoryId": "9872",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "id": "5"
+      },
+      "id": 11
+    },
+    {
+      "orderId": 7,
+      "quantity": 1,
+      "product": {
+        "name": "Sản phẩm 1",
+        "image": "https://picsum.photos/400/300",
+        "price": "30000",
+        "categoryId": "dxj",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "id": "fd01"
+      },
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.product-item {
+    background-color: #ffffff;
+    /* Default background color */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    /* Smooth transition for hover effect */
+    margin: 0;
+    /* Ensure no margin by default */
+}
+
+.product-item:hover {
+    border: none;
+    transform: scale(1.02);
+}
